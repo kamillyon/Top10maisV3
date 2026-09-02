@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background: linear-gradient(rgb(192, 217, 255),rgb(47, 84, 128));
+    color: rgb(39, 25, 119)
+}
+
+h1 {
+    color: rgb(103, 19, 136);
+}
+
+a {
+    color:rgb(13, 48, 145) 
+}
+
+a:hover {
+    color:rgb(15, 134, 150)
+}
+
+img{
+    opacity: 0.75;
+    border-radius: 20px;
+}
+
+img:hover {
+    opacity: 1;
+    border: 3px rgb(167, 18, 117) solid;
+}
+
+#img1 {
+    width: 41%;
+}
+
+#img2 {
+    width: 42%;
+}
+
+#img3 {
+    width: 43%;
+}
+
+#img4 {
+    width: 43%;
+}
+
+#img5 {
+    width: 45%;
+}
+
+#img6 {
+    width: 45%;
+}
+
+#img7 {
+    width: 45%;
+}
+
+#img8 {
+    width: 46%;
+}
+
+#img9 {
+    width: 46%;
+}
